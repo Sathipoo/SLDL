@@ -1,0 +1,42 @@
+/* body{
+    background-color: lightgreen;
+} */
+h2{
+    color: yellow;
+}
+#appname{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:normal;
+    font-size: 20px;
+    color: #FFFFFF;
+    }
+/* #sat1{ 
+    color: gray;
+} */
+.poo1{
+    color: red;
+}
+header{
+    /* background: linear-gradient(to bottom, #00bdf2 0%, #004785 100%); */
+    background: linear-gradient(180deg, #00bdf2 1%, #00b3f0 1%);
+
+    background: linear-gradient(180deg, #0066b3 1%, #004785 100%); 
+}
+.header img {
+    float: right;
+    width: 36px;
+    height: 23px;
+    background: #555;
+    /* padding-left: 80%; */
+  }
+  
+  .header h1 {
+    position: relative;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    left: 20px;
+    right: 20px;
+  }
+  #footer{
+  
+  }
