@@ -1,4 +1,4 @@
-Certainly! Here's a step-by-step explanation of the previous approach where we downloaded the zip file from S3, unzipped it, converted the files to UTF-8 encoding, and optionally uploaded the converted files back to S3:
+Here's a step-by-step explanation of the previous approach where we downloaded the zip file from S3, unzipped it, converted the files to UTF-8 encoding, and optionally uploaded the converted files back to S3:
 
 1. **Download the Zip File from S3**:
    - Use the `boto3` library to connect to the S3 bucket.
